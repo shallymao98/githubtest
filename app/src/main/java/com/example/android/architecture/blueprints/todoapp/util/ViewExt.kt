@@ -15,6 +15,9 @@
  */
 package com.example.android.architecture.blueprints.todoapp.util
 
+
+
+
 /**
  * Extension functions and Binding Adapters.
  */
